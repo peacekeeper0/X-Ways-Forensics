@@ -10,3 +10,5 @@ Contains the following notable features:
    1 = fully checked
 3. The XWF default state for a check box is defined with a '*' character.
 4. Important points are called out with a '!' character such as when XWF needs to be running as Admin or when a checkbox will set a registry key on your local system.
+
+## Conditional Coloring.cfg
