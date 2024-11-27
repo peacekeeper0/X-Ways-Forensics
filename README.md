@@ -1,9 +1,9 @@
 # X-Ways Forensics Resources
 
 ## Tooltips.txt
-Shortly after XWF introduced custom tooltips in version 19.4, I created an English Tooltips.txt by copy/pasting from the XWF manual.  This version was made available from XWF in 2018 and later included in XWF versions 20.5 through 20.7.  In the meantime I began working on a replacement and unbeknownst to me so did one of the XWF developers.  Starting with version 20.8, XWF replaced Tooltips.txt with their internally developed one.  When I finally finished my replacement Tooltips.txt, XWF declined to use it.  This repo contains a copy of my Tooltips.txt for anyone that is interested in using it.
+I created the official Tooltips.txt that was included in XWF versions 20.5 through 20.7.  In the meantime I began working on a replacement and unbeknownst to me so did one of the XWF developers.  Starting with version 20.8, XWF replaced Tooltips.txt with their internally developed one.  When I finally finished my updated Tooltips.txt, XWF declined to use it.  This repo contains a copy of my new Tooltips.txt for anyone that is interested in using it.
 
-Contains the following notable features:
+Notable Features:
 1. The results of checking a box are clearly and concisely defined.  
    0 = unchecked  
    ½ = half checked  
@@ -12,3 +12,4 @@ Contains the following notable features:
 4. Important points are called out with a '!' character such as when XWF needs to be running as Admin or when a checkbox will set a registry key on your local system.
 
 ## Conditional Coloring.cfg
+I have taken all of the artifacts from the SANS FOR500 (red) poster and converted them into conditional coloring rules.  Applying the rules will cause the "Name" column for an artifact to be highlighted with roughly the same color as the poster.  Additionally, the color pink is used to highlight and callout encrypted files in general since those are probably important.  This config gives you over 100 rules which you can immediately use or disable individually if you find one that you don't like.
