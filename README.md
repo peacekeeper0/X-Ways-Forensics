@@ -5,9 +5,9 @@ I created the official Tooltips.txt that was included in XWF versions 20.5 throu
 
 Notable Features:
 1. The results of checking a box are clearly and concisely defined.  
-   0 = unchecked  
-   ½ = half checked  
-   1 = fully checked
+| 0 | unchecked     |
+| ½ | half checked  |
+| 1 | fully checked |
 2. The XWF default state for a check box is defined with a '*' character.
 3. Important points are called out with a '!' character such as when XWF needs to be running as Admin or when a checkbox will set a registry key on your local system.
 
