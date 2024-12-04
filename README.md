@@ -7,7 +7,6 @@ Notable Features:
 1. The results of checking a box are clearly and concisely defined.
     
 | Tooltip | Check Box     |
-|---------|---------------|
 | 0       | unchecked     |
 | ½       | half checked  |
 | 1       | fully checked |
