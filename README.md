@@ -12,8 +12,8 @@ Notable Features:
 3. Important points are called out with a '!' character such as when XWF needs to be running as Admin or when a checkbox will set a registry key on your local system.
 
 ![](./images/Tooltips_7.PNG)
-![](./images/Tooltips_5.PNG)
 ![](./images/Tooltips_6.PNG)
+![](./images/Tooltips_5.PNG)
 
 ## Conditional Coloring.cfg
 I have taken all of the artifacts from the SANS FOR500 (red) poster and converted them into conditional coloring rules.  Applying the rules will cause the "Name" column for an artifact to be highlighted with roughly the same color as the poster.  Additionally, the color pink is used to highlight and callout encrypted files in general since those are probably important.  This config gives you over 100 rules which you can immediately use or disable individually if you find one that you don't like.
