@@ -13,6 +13,7 @@ Notable Features:
 
 ![](./images/Tooltips_1.PNG)
 ![](./images/Tooltips_2.PNG)
+![](./images/Tooltips_3.PNG)
 
 ## Conditional Coloring.cfg
 I have taken all of the artifacts from the SANS FOR500 (red) poster and converted them into conditional coloring rules.  Applying the rules will cause the "Name" column for an artifact to be highlighted with roughly the same color as the poster.  Additionally, the color pink is used to highlight and callout encrypted files in general since those are probably important.  This config gives you over 100 rules which you can immediately use or disable individually if you find one that you don't like.
