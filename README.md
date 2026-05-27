@@ -1,7 +1,7 @@
 # X-Ways Forensics Resources
 
 ## Tooltips.txt
-I created the official Tooltips.txt that was included in XWF versions 20.5 through 20.7.  In the meantime I began working on a replacement and unbeknownst to me so did one of the XWF developers.  Starting with version 20.8, XWF replaced Tooltips.txt with their internally developed one.  When I finally finished my updated Tooltips.txt, XWF declined to use it.  This repo contains a copy of my new Tooltips.txt for anyone that is interested in using it.
+I created the official Tooltips.txt that was included in XWF versions 20.5 through 20.7.  In the meantime I began working on a replacement and unbeknownst to me so did one of the XWF developers.  Starting with version 20.8, XWF replaced Tooltips.txt with their internally developed one.  When I finally finished my updated Tooltips.txt, XWF declined to use it.  This repo contains a copy of my new Tooltips.txt for anyone that is interested.
 
 Notable Features:
 1. The results of checking a box are clearly and concisely defined.
